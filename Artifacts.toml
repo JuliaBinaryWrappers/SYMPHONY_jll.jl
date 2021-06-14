@@ -1,0 +1,753 @@
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "14f6f9708b0d5fe8881542749fe67311a1fd412f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "28b129699fd74b737dba611c5dfd431026b672db006ea369823cd1934314d279"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3babfb3939c6b042181f4b82991f74ea8cd41f94"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "2fd5cf0f30d733c6a9a720f7bbc61b2a5a0c758d6453cf37ecc52777ac08a72c"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8117d3880ce9c29319ae5815352fd6c3d2a1d08b"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "ce5869c7e3f5e673523f3681b398784ffa6fb0f6d31dacf7f03b5df85c24e0ff"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c44ad7094920d28b5aedc76a54d2c90454283d2c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "0201ae86870381b02418d2c253cccffdc61b90b520dcf11614059025bd23ee03"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2153345780862f603cee7583ae398e6c098ab0dd"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "5207fd63bfccf1763dff2e1c80b8952c420a3e14113b2435a8cf807fccbe81ef"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be9ecef5fd0ef1fdb440932575273aa9f324348b"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "9d78aa6976ec06f04e690f948d62be6eac4008e0795ddbea9d9a59a0f2b9441f"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dcd6eb95f6c838fb8d67fcc353847122061d397"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "8f6d624b53615077f5b2573d39c4cd1abb7d5c5322942ab6b9fbe45d5ef8f3af"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-musl-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a85c6d61cc5aea85a859b2db2598813d4d7504d7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "cf63afa944521f865fd633e86377ab8af030b30364d392047c43e403baddef58"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3bbdcb88b4bbd7dd60db74ac40b90d83c12cc1a6"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "7cc30ce8edbce194e641bbcf54e619bf361c79cb1de0c2b56ebf0d6febdd5ce9"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33024815dfba36ee423f48da578536ebc8fd4247"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "a65a5b29cf8792313c870e95ca25c7d39622c866d86525eaba39b92fb7fc35c9"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "33e97d843821e7615e94d34f8a7583e06fb94769"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "d364ecbe7cb2b34b7516605934be6242002d4d7f087e540f51c38ff04c387a6a"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0fa2c1bac08d50209d63f6d65ca4ab35d3aa1456"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "82febbdf156a4bedec0314ca7d03aadcbfec73cfc5b493e65222f7892df41788"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "832ad3ecd409761a1d8faf53fefa2d9cde7b6596"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "ebc1202cbae327324da3b590a58e19a8118f2680c13aafadb51e984c07551bb8"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-gnueabihf-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fdf4d8ba6d99e87ed376b677e0d509e814558ff7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "68643c020857ae4db944d9d12c7f4e3e031f12a69665bf71b55c3f8afa76e870"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-gnueabihf-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d9c1e94b5f2c3862c9312225084db405ae614b8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "2ea057ad59bad256caa759532ba539685e59aa72b740ac099ad1e14c9d175426"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-gnueabihf-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d6ab853aa4195441fddc73b391961aac1a15f7d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "feddf673d2bfa19bae22ec6aba928105d6b8a50c2b5899062599423d672cc898"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-gnueabihf-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3cdd5e16ec1b2036e003af224552a43dfee9fa2e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "61173e6422cf5fc2fd9095f971648662acb825d7b54aeff32d11ec2b32f1291a"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d6bd8c9ae07e9f856a5d9e0725658af33994a4d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "7997f9b3ef636297e4023559def0830f4b17ea5ed5b2151e62895b2edc0150c9"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7d2752c1db87b9a14e282e0af6616c3a42d0a01b"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "8b8cd0ef150c1dcc7b019da5f340794041cb2b2be043486c098d6a64bbee39cc"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-musleabihf-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "504c1bc348ded1839b609a5904fc2b46edd8ae07"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "5684a0deb0a0d52bd5880d60dcb9d9619dfda7caeaea9f86de736c7b66bd3c16"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-musleabihf-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "48743fedad73aa6a4082cd49df937ad8ab7dcf01"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "d37a618848d7448cedc1e5916b63e845a50e51d9bddca094b4dad9015ff29e52"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-musleabihf-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20287e07e2bf8cc893262f9e793c816b90c4f6e4"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "fc72bcc3f8e104d4fc52e6c63195e61059edf28e6455e8da2a630e190dc43148"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-musleabihf-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e9d780a27efafa24cfed98c11a74f6aedfb88da7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "d975206d6a0849e09553f7ee10ca26d9dd65f70f5fcc33d8b8159518e4567dd5"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7757fe39c0834cbe607b19f0ea07b7e7e3bd4ee7"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "fc83c0d2a60ba40e69810071d97c0dc60cb6889f1a7181a9b0223d18d353d1f1"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d46a62f451fe8e94cff89d02866f6bd9f6611e6c"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "039168cbf14ccf5f1253550f11f6d2a54f15c23f757b59ad329bd6fb265f222e"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "980d234610134721a63894c60d2c0595b74fe309"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "93e3b171bfccea922bec1c6c8e89f04c3e2ea475d230717d8d4809eaa4674408"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7785553bb6099b92810e618430ce8b4aa5492e30"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "82f0770dda953cce201b6760413fe550290a59a850c6cdf40057df5ae1f7ffde"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a58b0aff23b20feafa2ec875b6f328e3876099e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "b691faaa1343c48d9f86b4a98b035869e559fd937e02455f5e5ce44feeb03983"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "77c7d6753d4dc0ffa4e378f6cd00104cc78680a1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "30fbd6ad2141e22088b3e6b2d6fb90f8b898c5d4e02f2be9bb9e110d90de7a3f"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "afd1d897c025afedf5aa5292a50329398dd402fa"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "3bf0649202ceea04dec6a4eb173f7aad116b6fd435ee2e9c0771c6c544fe11fa"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f910d6c57976fe948fc99c06af744faafe1e910"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "b4f3db2cbc5eb0d8ebed8f54b18c9e897cc7071b1405fce0d2981d8fbebda6ee"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-musl-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "780e6c412946e70f124573877efb08d7a6f4853d"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "1091fdb8be30227d221eaa2c1826a369828eb1b23609bbf28375e766676e205f"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-musl-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb76771539412e8c1b9a56927980be17016fb5c4"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "9720774f77d5b31bd5652bc42c2f5d1ab3fa3163b651da9fa89986d5b2822a0a"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-musl-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80af6b84b4dab356968b25cf088d1a07ca971027"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "ffd56ba79b002e85b22f9251945061e5c5a17ca962ac9ebb3aea6d48d936f175"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-musl-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb6b0cbfadfea5231937287d94f6f9aeece30292"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "d5085fb3f0cd58f3b340117ccaf062f809b0a22669e841ca2db47ccb5e824381"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbb9b3bf4b84bfaa92bc943d5ebaa44d48e27200"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "66d9f5cda3ca528e1618d9958e61a31b5e01235cd40c199d23f0c0421d5aac22"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "26165fcb7e3440fef559d0bd5810e2506cc41005"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "b3c9826ec94fc6b151a79d9d79ad2d74cbdb53dd7ac4f846b66721ceab239d17"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-w64-mingw32-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c9ba282477d29d5848a3061c26573979d099634"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "8c26c246653cad5ecd456b34121a3d42d47650fe15fce0bb56dd0f8d1edd19d2"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "47622918131dc3805b762869fed543d4b4ad731b"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "5befc6504743b747629e8343c01c021cd64cb783034e86766d94bd238506ec4c"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f0384657ed367a74e963ea287d28608310e57a6"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "57450d542de61febd755a1fb8ce13df1f48fe6de69eee2513dd8e2ed6a7ac680"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ea3ed35ecf7edfc68d118a51bf0a4a8f818995e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "c0e5303db6f99b25ba5bb8d122b7964c389922ca180e3f6ab18bbb3ca46338e7"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14ef955371f7c20f666a653c112bdcf030509ebc"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "2f018982fb61214df54b4b6889ffda1f720cc5471a543a47db08d78bb1c73c2d"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6541ca38eaf0d4ca85ecf29e869a7c360bd38eea"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "edc006af98ac43302f3cb59cb50aa9ddde3f109fbff885eb9a8937cae2122c05"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.powerpc64le-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a78b8fa351b7789dc58634f4db296c907e45d5c7"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "13583a403271d42b0b86d92d554dc57e44af0f9c3bcbd97fa898833374d2f9a1"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.powerpc64le-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f42115972d9f618622cb0114834344410d6db04"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "2ea48832d09e4ae26769c126a45484f9a7919f4608b2c7ca40824018f530a671"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.powerpc64le-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a4e09ca6aba4c94c63d6b3ac9736933ae120301"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "ba7daa7e46ecb794f62c5921179da45e7706e68a746d73f1ede30ef9f7f616b1"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.powerpc64le-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "adae851e18eea87644031c091c2d9410a55e67e1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "1e22b4fb65b5f6e1489230878186bdb899326026178ee7685fc2e999a855881b"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1621cfadb2204d023e32030016cc4a916b6f91a2"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "61dc53573b51e07a68805250d2b07b70018747ea5263ff16c74a49adff2cbbcd"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+git-tree-sha1 = "150d3aa501b5f60283b857c49d9135d4f020a10e"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[SYMPHONY.download]]
+    sha256 = "d79d9fd671f9b4f6aca4b0ec83589ec8353ed9660ec17a37718c8c65b7b9e144"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+git-tree-sha1 = "62f3cf9c53b9ff8f16b67a374f9c1e1656f48234"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[SYMPHONY.download]]
+    sha256 = "c56ff3c2b4400c25b4a8c19d0452e43cf1650eeb38d1b8013c8522c8e71783e2"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+git-tree-sha1 = "965c608ae49c548b49966cdb7d5c5250701b238e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SYMPHONY.download]]
+    sha256 = "cbea3edfc2f017abe666c2bea28a6cc9e58d78ec973a3f1cb77aa1ec62e65ee0"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23182eab8d934c8ce388e83677a275d003d9bdc8"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "7e42bd7c702328e4b373e55633398eaebb35b1218418a9634202119f522eeb1c"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-gnu-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40b2323db30376f05f23626cc400f3d7c1938479"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "f892c8d851af61bf7543280c01ccb36f54af96990b0e43f08ce643187c9fbcd6"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-gnu-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d0e4b050d9ec6871683bf5d581c4b3056abb5571"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "fe88da39596efdc66b7bccab8b3ebee6526124846c0e9a14c14663987834b808"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-gnu-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cd449b24b51a50d98bb2f90b9513fd9d32b8444c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "4ee9329a3f77cb9b4fb58f23ddf06f90954331ecb7f4cb7e70d7cc1fb37dd8b3"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-gnu-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "65a42402ce8dc53a9f0e989230e0033ff38fa66c"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "9844fa625ad6bca92ff62e5911423faa8552c42830028ac2b7408204b1df3d9c"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e041dc3ea58752c8e82cb0fcbddeef42c539a2c3"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "0e567e7c068b8558f20b21faacfff68fb8c56695bbf57345a0244a38f0363928"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "852dbd0312ae18806ac56fe25424af8f2f53f8d2"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "a5af375d342f5792f8e9b1d86a25e82fdb90fea18f187b282f238b0506853076"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-musl-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ca20bb84b4441b597fb8c5f5c4517a9f988d84a7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "f6abe25a9b2ac1892242e9f3ce1d6d2801db59eec4ee9ab31e47726324405cd3"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-musl-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e15808fe4b0231adcc493c82eb2fe66cf731480"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "62192f22d296d4dd0c593eee06346fb5d13c5c59b58d084e8de2399707be27c7"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-musl-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b42676e8e3eb292c45529d8e583ec34e67964dca"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "94c006c9a681ce8e18f1f78025a51ed05f522a88bb69f0358beb8d00b39b7308"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-musl-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b69d48e907217ad04cf1e90459f5cb81753c80ae"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "2c6315ce3509cd07c17999efa39016d6f423d7eff125a5e113a7888d510201bf"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e491dc8c73f81f7dd3a8fe2ed689dc33f4e29c0e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SYMPHONY.download]]
+    sha256 = "65d85ef1c8de448af00daff713814a3ad4fc3d65b074683f7f71056970f8aa4f"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6b34b49bd089652796dbf12df5d5d2bec24e05ca"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "5288a5ebbff9493f0e6dc1846b61039d233aa8fa649831d1535302245ce3d4a1"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-w64-mingw32-libgfortran3-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d3fd035c6eefd5b29589c0683a120875c30c784"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "8bf33e4a57d4b958fc25727c772e84e67a8d34d29739c18457317b118eba4260"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-w64-mingw32-libgfortran3-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "314fa7af11040dc94868c3816eabed1213fe8ac6"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "296c5c5fe51ade6bc7c0a8f505eac2ce02dff2b292b82d901b48b30f07f4ec7d"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-w64-mingw32-libgfortran4-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "288226faadce48e55edae8f0f67afd7071ab4786"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "892e2dd036fb2565a7803d32ea89c83d559ae703c185a96a716bc1a0e8d5b4ae"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-w64-mingw32-libgfortran4-cxx11.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a563815f4ef6fa80c7827628c3a4b82db8dd71c2"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "0e59f3b0842c4c54edb3f9ed6a03d9cd7548cfd6c89af2f410a00959a53354a6"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+[[SYMPHONY]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "91e2d1a6b988fe1ce05aeaf116ea40e26e4de458"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SYMPHONY.download]]
+    sha256 = "2ed87b4b95043e8fe5576123331dd60f999c788b6e5e649b02d24cbd9097de4b"
+    url = "https://github.com/JuliaBinaryWrappers/SYMPHONY_jll.jl/releases/download/SYMPHONY-v5.6.17+0/SYMPHONY.v5.6.17.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
